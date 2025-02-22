@@ -34,7 +34,7 @@ NEXT_PUBLIC_PRIVY_APP_ID=your_privy_app_id_here
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open (http://localhost:3000) with your browser to see the result.
 
 ## Project Structure
 
@@ -70,9 +70,6 @@ To learn more about the technologies used in this starter:
 
 This project can be easily deployed on Vercel. For more details, check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment).
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
